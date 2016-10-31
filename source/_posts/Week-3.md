@@ -162,6 +162,99 @@ footer a {
 
     - The `:hover` is a [psuedo-selector]() which reacts to a user behavior, and we want it on all the `a` tags.
 
+5. Your final HTML file should look something like this:
+
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Best Home Page</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <header>
+      <nav>
+        <img src="http://placekitten.com/60/60" alt="logo" />
+        <ul>
+          <li><a href="#about">About</a></li>
+          <li><a href="http://google.com">Google</a></li>
+        </ul>
+      </nav>
+    </header>
+    <section class="banner">
+      <h1>Mike's Cool Website!</h1>
+    </section>
+    <section id="about">
+      <p>
+        Occupy meggings subway tile poutine, bitters slow-carb trust fund XOXO master cleanse venmo. Occupy fap etsy, pour-over brooklyn snackwave blue bottle VHS. Helvetica marfa brooklyn, pok pok deep v hammock +1 actually mlkshk lomo swag activated charcoal cliche ethical selfies. Yr taxidermy austin pop-up salvia, sustainable asymmetrical kickstarter wayfarers plaid succulents craft beer jean shorts. PBR&B affogato air plant, art party umami kickstarter heirloom literally letterpress biodiesel blue bottle next level. Truffaut retro man bun, fap unicorn jianbing blog franzen tacos keytar tumeric pug meditation beard cliche. Fap keffiyeh mlkshk drinking vinegar, chillwave hella prism put a bird on it neutra readymade tbh forage deep v microdosing cold-pressed.
+      </p>
+    </section>
+    <footer>
+      <h1><a href="tel:1-800-call-me">1-800-Call-Me</a></h1>
+    </footer>
+  </body>
+</html>
+```
+- And the CSS:
+
+```css
+* {
+  vertical-align: top;
+}
+body {
+  font-size: 22px;
+  font-family: 'Helvetica', sans-serif;
+  margin: 0;
+}
+header {
+  height: 80px;
+  background-color: #3498db;
+  padding: 10px;
+}
+header img {
+  border-radius: 50%;
+}
+header nav, header ul, header li {
+  display: inline-block;
+}
+header li a {
+  padding-left: 20px;
+  color: black;
+}
+section.banner {
+  padding-top: 150px;
+  height: 300px;
+  background: url("http://placekitten.com/500/500") fixed;
+  background-size: cover;
+}
+h1 {
+  color: white;
+  font-size: 72px;
+  text-align: center;
+}
+p {
+  margin: 5%;
+  text-align: center;
+}
+footer {
+  height: 170px;
+  background-color: #3498db;
+  padding: 10px;
+}
+footer a {
+  font-size: 50px;
+}
+a {
+  text-decoration: none;
+  color: #f1c40f;
+}
+a:hover {
+  color: gray;
+}
+```
+
 #### Basic user experience principles
 
 - [Basic UX Framework](https://uxmag.com/articles/basic-ux%E2%80%8A%E2%80%94%E2%80%8Aa-framework-for-usable-products)
