@@ -1,7 +1,7 @@
 ---
-title: Week 4 - JavaScript
+title: JavaScript
 date: 2016-11-01 18:44:04
-tags:
+tags: js, javascript
 ---
 
 #### Download the boilerplate:

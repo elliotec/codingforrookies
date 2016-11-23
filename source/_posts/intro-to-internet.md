@@ -1,5 +1,5 @@
 ---
-title: Week 1
+title: Introduction to the Internet
 date: 2016-10-11 17:07:36
 tags:
 ---
