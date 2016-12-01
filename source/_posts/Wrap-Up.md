@@ -12,7 +12,7 @@ tags:
 
 <form action="https://formspree.io/me@michaelelliott.me" method="POST">
     <textarea name="message" style="width: 100%;
-                                    height: 20px;
+                                    height: 200px;
                                     padding: 15px;
                                     box-sizing: border-box;
                                     border: 2px solid #ccc;
