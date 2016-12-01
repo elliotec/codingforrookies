@@ -12,14 +12,14 @@ tags:
 
 <form action="https://formspree.io/me@michaelelliott.me" method="POST">
     <textarea name="message" style="width: 100%;
-                                    height: 150px;
-                                    padding: 12px 20px;
+                                    height: 20px;
+                                    padding: 15px;
                                     box-sizing: border-box;
                                     border: 2px solid #ccc;
                                     border-radius: 4px;
                                     background-color: #f8f8f8;
                                     resize: none;"
-    placeholder="Any and all feedback is appreciated - all anonymous."></textarea>
+    placeholder="Any and all feedback is appreciated and anonymous."></textarea>
     <input type="submit" value="Send" style="background-color: #4CAF50;
                                              border: none;
                                              color: white;
@@ -28,6 +28,7 @@ tags:
                                              text-decoration: none;
                                              display: inline-block;
                                              font-size: 14px;
-                                             margin:10px 0 10px;">
+                                             margin:10px 0 10px;
+                                             cursor:pointer;">
 </form>
 
