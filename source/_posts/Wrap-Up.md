@@ -8,5 +8,10 @@ tags:
 
 - We had a long Q & A and talked about applying what we've learned to other areas.
 
-- I'll create a feedback from and would love if everyone submits some feedback on the class. Stay tuned.
+- Please submit feedback here! I'll be teaching this class next semester and would love to know what to improve, change, or keep doing. Thanks.
+
+<form action="https://formspree.io/me@michaelelliott.me" method="POST">
+    <textarea name="message" placeholder="Any and all feedback is appreciated - all anonymous."></textarea>
+    <input type="submit" value="Send">
+</form>
 
