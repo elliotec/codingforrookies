@@ -3,12 +3,15 @@
   <div id="header-outer" class="outer">
     <div id="header-title" class="inner">
       <h1 id="logo-wrap">
-        <a href="<%- url_for() %>" id="logo"><%= config.title %></a>
+        <a href="<%- url_for() %>" id="logo" style="font-weight: 700;"><%= config.title %></a>
       </h1>
       <% if (theme.subtitle){ %>
         <h2 id="subtitle-wrap">
-          <a href="<%- url_for() %>" id="subtitle"><%= theme.subtitle %></a>
+          <a href="<%- url_for() %>" id="subtitle" style="font-weight: 700; font-size: 20px;"><%= theme.subtitle %></a>
         </h2>
+        <h3 style="color: white; font-weight: 700; font-size: 20px">
+            By <a href="http://elliotec.com" style="color: green; font-size: 22px; text-decoration: none;">Mike Elliott</a>
+        </h3>
       <% } %>
     </div>
     <div id="header-inner" class="inner">
