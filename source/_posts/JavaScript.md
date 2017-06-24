@@ -1,6 +1,6 @@
 ---
 title: JavaScript
-date: 2017-01-10 18:44:04
+date: 2017-01-02 18:44:04
 ---
 
 #### Download the boilerplate:

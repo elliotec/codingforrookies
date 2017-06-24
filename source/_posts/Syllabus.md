@@ -1,6 +1,6 @@
 ---
 title: Syllabus
-date: 2017-01-01 00:16:35
+date: 2017-01-11 00:16:35
 ---
 ## Coding For Rookies
 
