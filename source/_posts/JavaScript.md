@@ -1,7 +1,6 @@
 ---
 title: JavaScript
-date: 2016-11-01 18:44:04
-tags: js, javascript
+date: 2017-01-10 18:44:04
 ---
 
 #### Download the boilerplate:

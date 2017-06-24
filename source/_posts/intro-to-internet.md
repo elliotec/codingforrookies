@@ -1,7 +1,6 @@
 ---
 title: Introduction to the Internet
-date: 2016-10-11 17:07:36
-tags:
+date: 2017-01-01 17:07:36
 ---
 #### Setting up our development environment and creating our first website
 1. [Download and install Google Chrome](https://www.google.com/chrome/)

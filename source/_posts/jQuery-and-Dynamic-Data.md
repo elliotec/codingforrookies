@@ -1,7 +1,6 @@
 ---
 title: jQuery and Dynamic Data
-date: 2016-11-22 17:29:29
-tags: jquery, APIs
+date: 2017-02-01 17:29:29
 ---
 
 #### Spotify Playlist Creator!

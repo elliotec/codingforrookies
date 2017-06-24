@@ -1,7 +1,6 @@
 ---
 title: HTML
-date: 2016-10-18 23:22:17
-tags: html, forms, bootstrap
+date: 2017-01-02 23:22:17
 ---
 #### HTML
 1. Create a new folder called "week2" and open it up in Atom by selecting File > Add project folder. Then create a new file in that folder by right-clicking it and selecting "New file." Name the file "index.html" and select it.
